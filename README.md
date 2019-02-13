@@ -10,10 +10,10 @@
 ## 設定
 
 config.jsonを適宜編集する。
+`apiBaseUrl`には、APIサーバのURLを入れること。
 
 ```json
 {
-  // APIサーバのURLを入れる
   "apiBaseUrl": "http://localhost:8080"
 }
 ```
