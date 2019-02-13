@@ -9,7 +9,7 @@
 
 ## 設定
 
-config.jsonを適宜編集する。
+config.jsonを適宜編集する。  
 `apiBaseUrl`には、APIサーバのURLを入れること。
 
 ```json

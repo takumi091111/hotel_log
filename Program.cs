@@ -11,7 +11,7 @@ namespace hotel_log
       // ログの保存先パス
       const string path = "./logs";
       // ログのファイル名
-      string fileName = DateTime.Now.ToString("yyyy-MM-dd-HH:mm:ss") + ".json";
+      string fileName = DateTime.Now.ToString("yyyy-MM-dd-HH-mm-ss") + ".json";
 
       // ID, パスワードの入力
       Console.Write("従業員IDを入力してください: ");
